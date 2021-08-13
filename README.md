@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 My fields are electret polymers, physics lab education, and astronomical imaging
-
-
+- :computer: My fields are electret polymers, physics lab education, and astronomical imaging
+- :link: My professional website: http://people.cst.cmich.edu/melli1a/
+-  🔭 My astro images: https://www.flickr.com/photos/AxelMellingerAstro/
+-  :tv: My YouTube channel: https://www.youtube.com/c/axelmellingerastro
 <!--
 **amellinger/amellinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
